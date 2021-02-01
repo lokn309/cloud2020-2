@@ -16,7 +16,7 @@ spring:
           search-paths:
             - springcloud-config
           username: lokn309
-          password: Lk201130210117
+          password: xxxxxxxxxxxxx
         # 读取分支
         label: main
   rabbitmq:
